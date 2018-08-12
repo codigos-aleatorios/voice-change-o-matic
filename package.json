@@ -1,4 +1,16 @@
+ 
 {
   "name": "teste",
-  "main": "index.html"
+  "version": "1.0.0",
+  "description": " xxxxx",
+  "main": "index.html",
+ 
+  "scripts": {
+    "start": "",
+    "build": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+ 
+  }
 }
