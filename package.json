@@ -1,3 +1,4 @@
 {
-  "name": "teste"
+  "name": "teste",
+  "main": "index.html"
 }
